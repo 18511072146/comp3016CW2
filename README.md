@@ -96,4 +96,5 @@ Special point:
 3. Educational function, through the formula play show Rubik's cube operation process, convenient learning and teaching.
 
 
+VIDEO LINK:https://youtu.be/L_GJH9KO4jM
 
